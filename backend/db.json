@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$dbbQEO.quB4IZkQTnsQaaexv4NZ8qNbRTKyqzhcz4T91sZYt7oRVi",
+      "id": 1
+    },
+    {
+      "email": "test2@t.com",
+      "password": "$2a$10$WjVNt5vdvXKe8CMx9zvUdeYqAogqCBpRVMzo9fPxbBpJ.yJlu4YdW",
+      "id": 2
+    }
+  ],
+  "Todo": [
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "author": "test2@t.com",
+      "dateCreated": 1667755550039,
+      "complete": true,
+      "id": "a99e42a8-6aaf-4023-83b3-d47a12b868e6",
+      "dateCompleted": 1667755569244
+    }
+  ]
+}
